@@ -49,7 +49,7 @@ def Goodbuy (L):
     return d4
 
 if n==2:
-    d=foo(L);
+    d=foo(L)
 elif n==3:
     d=Hallo(L)
 elif n==4:
