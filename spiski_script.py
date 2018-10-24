@@ -45,7 +45,6 @@ def Goodbuy (L):
         for j in range (0,3):
             M[j].pop(i)
         d3 = Hallo(M)
-        print(d3)
         d4 = d4+(-1)**i*L[0][i]*d3
     return d4
 
